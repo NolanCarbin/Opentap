@@ -16,8 +16,6 @@ Next you'll need to open the `.env` file that's located in the root of the proje
 # Java
 VUE_APP_REMOTE_API=http://localhost:8080
 
-# .NET
-VUE_APP_REMOTE_API=https://localhost:44358
 ```
 
 Your Vue frontend communicates with this API endpoint to authenticate and register users.
